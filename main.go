@@ -1,6 +1,6 @@
 import (
 	"fmt"
-	"github.com/shirou/gopsutil/net"
+	"github.com/shirou/gopsutil/net"   //go get -u github.com/shirou/gopsutil
 	"github.com/shirou/gopsutil/process"
 	
 )
